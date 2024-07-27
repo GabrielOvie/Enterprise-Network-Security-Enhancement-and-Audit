@@ -18,10 +18,11 @@ This project will focus on improving and assessing the security posture of an en
 - Encryption tools for data at rest and in transit(Bitlocker or VEralocker)
 
 ## Project Phases
-1. [JIRA Installation and Configuration](setup-guide.md)
-2. [Workflow and Automation](Workflows.md)
-3. [Reporting and Dashboards](Reporting-and-Dashboards.md)
-4. [Testing and Demonstration](Testing-and-Demonstratio.md)
+1. [Initial Assessment - Scanning for Vulnerability](setup-guide.md)
+2. [Analysis and Recommendation - Prioritizing Vulns](Workflows.md)
+3. [Security Enhancements - IDS/IPS, SIEM Deployment, MFA Implementation](Reporting-and-Dashboards.md)
+4. [Testing and Validation](Testing-and-Demonstratio.md)
+5. [Documentation - stepbystep guide](Testing-and-Demonstratio.md)
 
 ## Skills Demonstrated
 - Firewall and IDS/IPS configuration
